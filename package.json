@@ -1,0 +1,24 @@
+{
+  "name": "julian-favourite-c64-games",
+  "version": "0.0.1",
+  "description": "A json-server demo featuring my favourite C64 games.",
+  "scripts": {
+    "start": "json-server --watch ./db.json"
+  },
+  "dependencies": {
+    "json-server": "^0.16.1"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "repository": {
+    "url": "https://glitch.com/edit/#!/json-server-demo"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "json-server"
+  ]
+}
+
